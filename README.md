@@ -1,17 +1,22 @@
-![# WELCOME](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
-<h1 align="center">Hi 👋, I'm Prasad</h1>
+![# WELCOME](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
+<h1 align="left">Hi 👋, I'm Prasad</h1>
 <h3 align="center"># WELCOME.</h3>
+
+
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datanomadx&label=Profile%20views&color=0e75b6&style=flat" alt="datanomadx" /> </p>
  <img align="right" alt="Coding" width="400" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif">
 
+
 - 👨‍💻 All of my projects are available at [https://github.com/DataNomadX?tab=repositories](https://github.com/DataNomadX?tab=repositories)
 
 - 💬 Ask me about **Python,MYSQL,Power BI**
 
+
 - 📫 How to reach me **prasadnalawade44976@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
