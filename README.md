@@ -9,7 +9,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datanomadx&label=Profile%20views&color=0e75b6&style=flat" alt="datanomadx" /> </p>
- <img align="right" alt="Coding" width="400" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif">
+
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/DataNomadX?tab=repositories](https://github.com/DataNomadX?tab=repositories)
@@ -18,6 +18,7 @@
 
 
 - 📫 How to reach me **prasadnalawade44976@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -30,8 +31,10 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datanomadx&show_icons=true&locale=en" alt="datanomadx" /></p>
-<img align="center" alt="Coding" width="1200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+ <img align="left" alt="Coding" width="500" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif">
+
+ 
+
 
 
 
